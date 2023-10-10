@@ -19,14 +19,14 @@ It emphasizes the importance of seeking professional medical care when necessary
 
 The technologies used are:
 
-FLASK
-PYTHON
-HTML
-CSS
-JS
-PANDAS
-OPENAI--API
-BOOTSTRAP
+FLASK |
+PYTHON |
+HTML |
+CSS |
+JS |
+PANDAS |
+OPENAI--API |
+BOOTSTRAP 
 
 The given directories:
 CSS
