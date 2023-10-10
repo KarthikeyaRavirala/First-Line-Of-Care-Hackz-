@@ -29,8 +29,9 @@ OPENAI--API |
 BOOTSTRAP 
 
 The given directories:
-CSS
-JS
-IMAGES 
+CSS ||
+JS ||
+IMAGES ||
+HTML 
 should be placed in a single directory called 'static'.
 Due to it we are preforming in the Flask it is th sequence of Flask.
