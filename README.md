@@ -12,11 +12,6 @@ Possible causes: Common Cold
 Severity:Mild
 Recommended action: Keep child hyderated, provide rest, and monitor temperature.
 
-The approach for the "MedTech: First Line of Care" 
-application is to develop a user-friendly tool that empowers parents and caregivers with accurate information to assess common symptoms in children. The application provides guidance on possible causes, severity assessment, and recommended actions. 
-It emphasizes the importance of seeking professional medical care when necessary, serving as a reliable initial resource for users.
-
-
 The technologies used are:
 
 FLASK |
