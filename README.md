@@ -71,16 +71,17 @@ To get started with the application, follow the instructions below.
    ```bash
    git clone https://github.com/KarthikeyaRavirala/First-line-of-care.git
 
-Navigate to the project directory:
-#  bash
- cd first-line-of-care
+2. Navigate to the project directory:
+
+  '''bash
+   cd first-line-of-care
  
-Install the required dependencies:
-# bash
-pip install -r requirements.txt
+3.Install the required dependencies:
+'''bash
+   pip install -r requirements.txt
 
 
-Usage
+## Usage
 Start the Flask development server:
-# bash
+ bash
 python app.py
