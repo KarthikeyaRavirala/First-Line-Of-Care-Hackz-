@@ -76,6 +76,9 @@ To get started with the application, follow the instructions below.
    ```bash
     pip install -r requirements.txt
 
+4.Create a main folder named static
+Move css|images to it. 
+
  
 # Usage
 Start the Flask development server:
